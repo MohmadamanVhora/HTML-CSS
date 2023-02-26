@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.explore {
+    color: white;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.plus-logo {
+    color: gold;
+}
+
+.input-search>input {
+width: 30vw;
+    max-width: 100%;
+    height: 36px;
+    border-style: none;
+    padding: 10px;
+}
+
+.nav-button {
+    background: white;
+    border-radius: 0;
+    color: #1e59ff;
+    height: 36px;
+    border: none;
+}
+
+.dropdown > button {
+    color: white;
+    height: 30px;
+    padding: 0;
+}
+
+.card-body > a{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.card-body > a:hover{
+    color: blue;
+}
+
+.card{
+    border: 0;
+    text-align: center;
+}
+
+.card > img{
+    margin: 0 auto 0;
+    width: 80%;
+}
+.deal{
+    background: white;
+}
+
+.product{
+    background: white;
+    text-align: center;
+    overflow-x: scroll;
+}
+
+.product::-webkit-scrollbar {
+    display: none;
+  }
+
+.products-container{
+    background-color: rgb(236, 233, 233);
+}
+
+.product-image{
+    height: 130px;
+    width: auto;
+    max-width: 130px;
+}
+
+.card-product{
+    padding: 15px 20px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.product-body{
+    text-align: center;
+}
+
+small {
+    white-space: nowrap;
+}
+
